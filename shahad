@@ -1,0 +1,67 @@
+<<html>
+    <head>
+        <title>أكاديمية العطاء التطوعية </title>
+<marquee><h1>أكاديمية العطاء التطوعية</h1>
+<p style="color:white;">Click on the buttons to give me a move</p></marquee>
+
+<style>
+body {
+      background-image: url('https://tse3.mm.bing.net/th?id=OIP.nbWLgp9Ucof-w73tmE2liAHaHa&pid=Api&P=0&w=300&h=300');
+      background-repeat: no-repeate;
+      background-attachment: fixed;
+      background-size: cover;
+
+}
+        <meta charset="UTF-8">
+        <meta name="viewport" content="yallo=device-width, initial-scale=1.0">
+        <link href='https://fonts.googleapis.com/css?family=Acme' rel='stylesheet'>
+
+        <style>
+            body{
+                font-family: 'Acme';font-size: 22px;
+                margin: 100px;
+                padding: 0;
+                height: 100vh;
+                align-items: center;
+                justify-content: center;
+                background-color: white;
+            }
+
+            .btn{
+                margin:  20px;
+                width: 80px;
+                height: 80px;
+                border: none;
+                background-color: #2a363b;
+                color: white;
+                font-size: 10px;
+                border-radius: 6px;
+                outline: none;
+                cursor: pointer;
+                transition: .3s linear;
+            }
+
+
+            .margin {
+                margin-left:145px;
+            }
+        </style>
+
+
+    </head>
+    <body>
+
+        <div>   
+            <button  class="btn btnF  margin"><h2>Forward</h2></button>    
+            <br>
+            <button class="btn  "><h2>Left</h2></button>
+            <button class="btn  "><h2>Stop<h/2></button>
+            <button class="btn  "><h2>Right</h2></button>
+            <br>
+            <button  class="btn btnB  margin"><h2>Backward</h2></button>
+        </div>
+     
+    </body>
+</html>
+!DOCTYPE html>
+
